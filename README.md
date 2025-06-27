@@ -56,17 +56,6 @@ The dataset should be in CSV format and include fields such as:
 ### 📄 Conclusion
 Summarizes statistical insights, visual trends, and regression findings to guide business actions.
 
-### ℹ Project Description
-Outlines the full project scope, including:
-- Data exploration
-- Probabilistic models
-- Business interpretations
-- Technical stack
-
----
-
-## 💡 Business Applications
-
-- Identify top-selling products & underperformers
-- Understand customer behavior pat
+### Technical stack
+- Python
 
